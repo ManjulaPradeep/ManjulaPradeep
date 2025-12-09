@@ -110,7 +110,7 @@ const manjula = {
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### “Every line of code is a small step forward. Keep stepping and you’ll build worlds.”
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManjulaPradeep&color=blueviolet&style=for-the-badge)
 
